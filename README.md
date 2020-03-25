@@ -8,7 +8,8 @@
 
 ## Introduction
 
-When we started this module, we mentioned that we often use nested data
+When we started this module, we mentioned that we often use ne
+UJGNV ted data
 structures as a "base" from which to do data processing. `Array`s of `Array`s
 is our first milestone in learning to work with nested data.
 
